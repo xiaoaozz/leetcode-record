@@ -19,7 +19,7 @@ class Solution {
     /**
      * 下、右下、右、右上、上、左上、左、左下
      */
-    public static final int[][] directions = {
+    public static final int[][] DIRECTIONS = {
             {1, 0}, {1, 1}, {0, 1}, {-1, 1},
             {-1, 0}, {-1, -1}, {0, -1}, {1, -1}
     };
@@ -33,7 +33,7 @@ class Solution {
         }
         List<List<Integer>> res = new ArrayList<>();
         // 遍历不同方向的点
-        for (int[] d : directions) {
+        for (int[] d : DIRECTIONS) {
             int x = king[0] + d[0];
             int y = king[1] + d[1];
             while (x >= 0 && x < 8 && y >= 0 && y < 8) {
