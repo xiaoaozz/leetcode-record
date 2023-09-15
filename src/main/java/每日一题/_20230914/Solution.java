@@ -5,15 +5,15 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * lc1222.可以攻击国王的皇后 https://leetcode.cn/problems/queens-that-can-attack-the-king
- * <p>
+ * @Author zal
+ * @Date 2023/9/15 12:26
+ * @Description lc1222.可以攻击国王的皇后 https://leetcode.cn/problems/queens-that-can-attack-the-king
+ * @Version 1.0
+ * @Tag 模拟
  * 思路：
  * 题目要求，必须与国王在同一行、同一列、同一斜线的皇后才能攻击到国王，而且被挡住的皇后不能攻击国王
  * 所以，我们可以以国王为中心点，向周围八个方向进行模拟遍历，遇到符合条件的皇后，就将其坐标加入结果
  * 直到不满足边界条件为止。
- *
- * @author zal
- * @tag 模拟
  */
 class Solution {
     /**
