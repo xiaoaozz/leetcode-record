@@ -8,6 +8,7 @@
 * 2023-09-16 [198.打家劫舍 - 记忆化搜索、动态规划](https://leetcode.cn/problems/house-robber/)
 * 2023-09-17 [213.打家劫舍II - 记忆化搜索、动态规划](https://leetcode.cn/problems/house-robber-ii)
 * 2023-09-24 [146.LRU缓存 - 双向链表、哈希表](https://leetcode.cn/problems/lru-cache/)
+* 2023-09-25 [460.LFU缓存 - 双向链表、哈希表](https://leetcode.cn/problems/lfu-cache)
 # 🚀 剑指offer
 
 # 🚀 分类
