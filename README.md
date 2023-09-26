@@ -13,6 +13,9 @@
 * 2023-09-25 [460.LFU缓存 - 双向链表、哈希表](https://leetcode.cn/problems/lfu-cache)
 * 2023-09-26 [2582.递枕头 - 模拟、数学](https://leetcode.cn/problems/pass-the-pillow)
 
+# 🚀 灵茶试练
+* 2023-09-25 [给每个子树增加值 - 树、DFS](https://atcoder.jp/contests/abc138/tasks/abc138_d)
+
 # 🚀 剑指offer
 
 # 🚀 分类
