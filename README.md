@@ -22,7 +22,9 @@
 * 2023-09-26 [2582.递枕头 - 模拟、数学](https://leetcode.cn/problems/pass-the-pillow)
 * 2023-09-27 [1333.餐厅过滤器 - 数组、自定义排序](https://leetcode.cn/problems/filter-restaurants-by-vegan-friendly-price-and-distance)
 * 2023-10-09 [2578. 最小和分割 - 排序、拆位、枚举](https://leetcode.cn/problems/split-with-minimum-sum/)
-
+* 2023-10-11 [2562. 找出数组的串联值 - 双指针、模拟](https://leetcode.cn/problems/find-the-array-concatenation-value)
+* 2023-10-14 [136. 只出现一次的数字 - 位运算](https://leetcode.cn/problems/single-number)
+* 2023-10-15 [137. 只出现一次的数字 II - 位运算](https://leetcode.cn/problems/single-number-ii)
 # 🚀 灵茶试练
 
 来源灵茶山艾府
@@ -34,5 +36,10 @@
 * 2023-10-09 [所有小于给定值的数组和 - 排序、指针](https://atcoder.jp/contests/abc321/tasks/abc321_d)
 
 # 🚀 周赛
+* 第367场周赛 
+  * [100096. 找出满足差值条件的下标 I - 暴力、双指针](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-i/)
+  * [100084. 最短且字典序最小的美丽子字符串 - 暴力、滑动窗口](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/)
+  * [100101. 找出满足差值条件的下标 II - 双指针](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-ii/)
+  * [8026. 构造乘积矩阵 - 前后缀](https://leetcode.cn/problems/construct-product-matrix/)
 
 
