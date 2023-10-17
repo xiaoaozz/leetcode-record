@@ -25,6 +25,8 @@
 * 2023-10-11 [2562. 找出数组的串联值 - 双指针、模拟](https://leetcode.cn/problems/find-the-array-concatenation-value)
 * 2023-10-14 [136. 只出现一次的数字 - 位运算](https://leetcode.cn/problems/single-number)
 * 2023-10-15 [137. 只出现一次的数字 II - 位运算](https://leetcode.cn/problems/single-number-ii)
+* 2023-10-16 [260. 只出现一次的数字 III - 位运算](https://leetcode.cn/problems/single-number-iii)
+* 2023-10-17 [2652. 倍数求和 - 枚举、数学](https://leetcode.cn/problems/sum-multiples)
 # 🚀 灵茶试练
 
 来源灵茶山艾府
@@ -34,6 +36,8 @@
 * 2023-09-27 [和等于异或和的连续子数组个数 - 位运算、滑动窗口](https://atcoder.jp/contests/abc098/tasks/arc098_b)
   * [2401.最长优雅子数组](https://leetcode.cn/problems/longest-nice-subarray)
 * 2023-10-09 [所有小于给定值的数组和 - 排序、指针](https://atcoder.jp/contests/abc321/tasks/abc321_d)
+* 2023-10-17 [没有前导0的字典序最小子序列 - 栈](https://codeforces.com/problemset/problem/1765/N)
+  * [402. 移掉 K 位数字 - 栈](https://leetcode.cn/problems/remove-k-digits/)
 
 # 🚀 周赛
 * 第367场周赛 
