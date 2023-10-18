@@ -3,13 +3,11 @@
 * 为了提升自己的算法以及面试过程中手撕代码的能力，特此记录刷过的题目，附带解题思路。
 * 欢迎点赞收藏star ✿✿ヽ(°▽°)ノ✿
 
-
 # 🚀 HOT100题
+
 * [两数之和](https://leetcode.cn/problems/two-sum/?envType=study-plan-v2&envId=top-100-liked)
 
-
 # 🚀 剑指offer
-
 
 # 🚀 每日一题
 
@@ -27,6 +25,8 @@
 * 2023-10-15 [137. 只出现一次的数字 II - 位运算](https://leetcode.cn/problems/single-number-ii)
 * 2023-10-16 [260. 只出现一次的数字 III - 位运算](https://leetcode.cn/problems/single-number-iii)
 * 2023-10-17 [2652. 倍数求和 - 枚举、数学](https://leetcode.cn/problems/sum-multiples)
+* 2023-10-18 [2530. 执行 K 次操作后的最大分数 - 堆、优先队列](https://leetcode.cn/problems/maximal-score-after-applying-k-operations)
+
 # 🚀 灵茶试练
 
 来源灵茶山艾府
@@ -34,16 +34,17 @@
 * 2023-09-25 [给每个子树增加值 - 树、DFS](https://atcoder.jp/contests/abc138/tasks/abc138_d)
 * 2023-09-26 [字典序第K小的字符串 - 字符串、组合数](https://atcoder.jp/contests/abc202/tasks/abc202_d)
 * 2023-09-27 [和等于异或和的连续子数组个数 - 位运算、滑动窗口](https://atcoder.jp/contests/abc098/tasks/arc098_b)
-  * [2401.最长优雅子数组](https://leetcode.cn/problems/longest-nice-subarray)
+    * [2401.最长优雅子数组](https://leetcode.cn/problems/longest-nice-subarray)
 * 2023-10-09 [所有小于给定值的数组和 - 排序、指针](https://atcoder.jp/contests/abc321/tasks/abc321_d)
 * 2023-10-17 [没有前导0的字典序最小子序列 - 栈](https://codeforces.com/problemset/problem/1765/N)
-  * [402. 移掉 K 位数字 - 栈](https://leetcode.cn/problems/remove-k-digits/)
+    * [402. 移掉 K 位数字 - 栈](https://leetcode.cn/problems/remove-k-digits/)
 
 # 🚀 周赛
-* 第367场周赛 
-  * [100096. 找出满足差值条件的下标 I - 暴力、双指针](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-i/)
-  * [100084. 最短且字典序最小的美丽子字符串 - 暴力、滑动窗口](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/)
-  * [100101. 找出满足差值条件的下标 II - 双指针](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-ii/)
-  * [8026. 构造乘积矩阵 - 前后缀](https://leetcode.cn/problems/construct-product-matrix/)
+
+* 第367场周赛
+    * [100096. 找出满足差值条件的下标 I - 暴力、双指针](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-i/)
+    * [100084. 最短且字典序最小的美丽子字符串 - 暴力、滑动窗口](https://leetcode.cn/problems/shortest-and-lexicographically-smallest-beautiful-string/)
+    * [100101. 找出满足差值条件的下标 II - 双指针](https://leetcode.cn/problems/find-indices-with-index-and-value-difference-ii/)
+    * [8026. 构造乘积矩阵 - 前后缀](https://leetcode.cn/problems/construct-product-matrix/)
 
 
