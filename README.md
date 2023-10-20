@@ -27,6 +27,7 @@
 * 2023-10-17 [2652. 倍数求和 - 枚举、数学](https://leetcode.cn/problems/sum-multiples)
 * 2023-10-18 [2530. 执行 K 次操作后的最大分数 - 堆、优先队列](https://leetcode.cn/problems/maximal-score-after-applying-k-operations)
 * 2023-10-19 [1726. 同积元组 - 哈希表](https://leetcode.cn/problems/tuple-with-same-product)
+* 2023-10-20 [2525. 根据规则将箱子分类 - 模拟](https://leetcode.cn/problems/categorize-box-according-to-criteria/)
 
 # 🚀 灵茶试练
 
