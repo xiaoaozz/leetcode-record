@@ -29,6 +29,7 @@
 * 2023-10-19 [1726. 同积元组 - 哈希表](https://leetcode.cn/problems/tuple-with-same-product)
 * 2023-10-20 [2525. 根据规则将箱子分类 - 模拟](https://leetcode.cn/problems/categorize-box-according-to-criteria/)
 * 2023-10-21 [2316. 统计无向图中无法互相到达点对数 - DFS、并查集](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
+* 2023-10-22 [1402. 做菜顺序 - 贪心、枚举](https://leetcode.cn/problems/reducing-dishes)
 
 # 🚀 灵茶试练
 
