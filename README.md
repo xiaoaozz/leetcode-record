@@ -51,3 +51,14 @@
     * [8026. 构造乘积矩阵 - 前后缀](https://leetcode.cn/problems/construct-product-matrix/)
 
 
+# 常用算法 
+
+## 图 
+
+### 并查集
+* [1971. 寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph)
+
+
+# 力扣
+* [128. 最长连续序列 - 排序、哈希表](https://leetcode.cn/problems/longest-consecutive-sequence/)
+* [1971. 寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph)
