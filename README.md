@@ -30,6 +30,7 @@
 * 2023-10-20 [2525. 根据规则将箱子分类 - 模拟](https://leetcode.cn/problems/categorize-box-according-to-criteria/)
 * 2023-10-21 [2316. 统计无向图中无法互相到达点对数 - DFS、并查集](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * 2023-10-22 [1402. 做菜顺序 - 贪心、枚举](https://leetcode.cn/problems/reducing-dishes)
+* 2023-10-23 [2678. 老人的数目 - 字符串](https://leetcode.cn/problems/number-of-senior-citizens)
 
 # 🚀 灵茶试练
 
@@ -62,4 +63,6 @@
 
 # 力扣
 * [128. 最长连续序列 - 排序、哈希表](https://leetcode.cn/problems/longest-consecutive-sequence/)
+* [1402. 做菜顺序 - 贪心、枚举](https://leetcode.cn/problems/reducing-dishes)
 * [1971. 寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph)
+* [2678. 老人的数目 - 字符串](https://leetcode.cn/problems/number-of-senior-citizens)
