@@ -31,6 +31,10 @@
 * 2023-10-21 [2316. 统计无向图中无法互相到达点对数 - DFS、并查集](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 * 2023-10-22 [1402. 做菜顺序 - 贪心、枚举](https://leetcode.cn/problems/reducing-dishes)
 * 2023-10-23 [2678. 老人的数目 - 字符串](https://leetcode.cn/problems/number-of-senior-citizens)
+* 2023-10-24 [1155. 掷骰子等于目标和的方法数 - 动态规划](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum)
+* 2023-10-25 [2698. 求一个整数的惩罚数 - 递归、DFS](https://leetcode.cn/problems/find-the-punishment-number-of-an-integer)
+* 2023-10-26 [2520. 统计能整除数字的位数 - 模拟](https://leetcode.cn/problems/count-the-digits-that-divide-a-number)
+* 2023-10-28 [2558. 从数量最多的堆取走礼物 - 优先队列、模拟堆](https://leetcode.cn/problems/take-gifts-from-the-richest-pile)
 
 # 🚀 灵茶试练
 
@@ -54,6 +58,16 @@
 
 
 # 常用算法 
+## 递归
+* [2698. 求一个整数的惩罚数 - 递归、DFS](https://leetcode.cn/problems/find-the-punishment-number-of-an-integer)
+
+## 动态规划
+* [1155. 掷骰子等于目标和的方法数 - 动态规划](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum)
+
+
+## 优先队列、堆
+* [2558. 从数量最多的堆取走礼物 - 优先队列、模拟堆](https://leetcode.cn/problems/take-gifts-from-the-richest-pile)
+
 
 ## 图 
 
@@ -63,6 +77,11 @@
 
 # 力扣
 * [128. 最长连续序列 - 排序、哈希表](https://leetcode.cn/problems/longest-consecutive-sequence/)
+* [1155. 掷骰子等于目标和的方法数 - 动态规划](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum)
 * [1402. 做菜顺序 - 贪心、枚举](https://leetcode.cn/problems/reducing-dishes)
 * [1971. 寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph)
+* [2520. 统计能整除数字的位数 - 模拟](https://leetcode.cn/problems/count-the-digits-that-divide-a-number)
+* [2558. 从数量最多的堆取走礼物 - 优先队列、模拟堆](https://leetcode.cn/problems/take-gifts-from-the-richest-pile)
 * [2678. 老人的数目 - 字符串](https://leetcode.cn/problems/number-of-senior-citizens)
+* [2698. 求一个整数的惩罚数 - 递归、DFS](https://leetcode.cn/problems/find-the-punishment-number-of-an-integer)
+
